@@ -6,5 +6,6 @@
 2. Go to [OpenWeatherMap website](https://openweathermap.org/api) and get your API key
 3. Rename .env_sample file to .env
 4. Copy your API key and paste it in the .env file
-5. Open Terminal in the project folder and type ```node weather.js``` (I'm assuming Node is installed on your system)
-6. Open your browser and type ```http://localhost:3000/```
+5. Open Terminal in the project folder and type ```npm install``` This will install all the dependencies (I'm assuming Node is installed on your system)
+6. Now type ```node weather.js``` to start the server.
+7. Open your browser and type ```http://localhost:3000/```
